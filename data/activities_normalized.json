@@ -6979,5 +6979,31 @@
     "start_date_local": "2026-07-26T11:53:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 5141.9,
+    "elevation_gain": 112.0,
+    "id": "19506568930",
+    "moving_time": 1110.0,
+    "name": "Night Ride (July - 28)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T22:28:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 61311.4,
+    "elevation_gain": 520.0,
+    "id": "19506569498",
+    "moving_time": 6831.0,
+    "name": "In Germany we say: Mal so, mal so \ud83e\uddb5",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-28T20:27:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

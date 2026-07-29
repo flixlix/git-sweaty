@@ -4832,6 +4832,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19471856951",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 22,
+      "name": "Night Ride (July - 28)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19506568930",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 20,
+      "name": "In Germany we say: Mal so, mal so \ud83e\uddb5",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19506569498",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9121,6 +9139,16 @@
           "distance": 29007.9,
           "elevation_gain": 240.0,
           "moving_time": 3834.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19506568930",
+            "19506569498"
+          ],
+          "count": 2,
+          "distance": 66453.3,
+          "elevation_gain": 632.0,
+          "moving_time": 7941.0
         }
       },
       "Run": {
@@ -9239,7 +9267,7 @@
       }
     }
   },
-  "generated_at": "2026-07-28T16:42:32.606467+00:00",
+  "generated_at": "2026-07-29T16:23:42.656296+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
