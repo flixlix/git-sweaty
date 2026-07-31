@@ -4850,6 +4850,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19506569498",
       "year": 2026
+    },
+    {
+      "date": "2026-07-29",
+      "hour": 23,
+      "name": "Ocean Views & Poor Decisions \ud83c\udf15",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19533930488",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9149,6 +9158,15 @@
           "distance": 66453.3,
           "elevation_gain": 632.0,
           "moving_time": 7941.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19533930488"
+          ],
+          "count": 1,
+          "distance": 400854.0,
+          "elevation_gain": 3068.0,
+          "moving_time": 56438.0
         }
       },
       "Run": {
@@ -9267,7 +9285,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T16:28:39.225473+00:00",
+  "generated_at": "2026-07-31T16:47:41.111275+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",

@@ -7005,5 +7005,18 @@
     "start_date_local": "2026-07-28T20:27:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 400854.0,
+    "elevation_gain": 3068.0,
+    "id": "19533930488",
+    "moving_time": 56438.0,
+    "name": "Ocean Views & Poor Decisions \ud83c\udf15",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T23:18:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
