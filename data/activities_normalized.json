@@ -7018,5 +7018,18 @@
     "start_date_local": "2026-07-29T23:18:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 66535.8,
+    "elevation_gain": 628.0,
+    "id": "19561998462",
+    "moving_time": 8731.0,
+    "name": "Checking in on The Legs \ud83c\udf16",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T21:12:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
