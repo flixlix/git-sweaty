@@ -7031,5 +7031,18 @@
     "start_date_local": "2026-08-01T21:12:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 46283.5,
+    "elevation_gain": 403.0,
+    "id": "19602117413",
+    "moving_time": 5725.0,
+    "name": "After Work Recovery Loop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T18:14:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
