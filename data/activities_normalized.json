@@ -7044,5 +7044,18 @@
     "start_date_local": "2026-08-04T18:14:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 60439.8,
+    "elevation_gain": 488.0,
+    "id": "19632376281",
+    "moving_time": 7196.0,
+    "name": "Just doin my Thing \u270c\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T18:46:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
