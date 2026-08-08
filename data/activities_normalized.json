@@ -7057,5 +7057,18 @@
     "start_date_local": "2026-08-06T18:46:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 71923.0,
+    "elevation_gain": 523.0,
+    "id": "19654108251",
+    "moving_time": 8151.0,
+    "name": "Heat Acclimation \ud83e\udd75\ud83c\udf21\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-08T11:16:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
