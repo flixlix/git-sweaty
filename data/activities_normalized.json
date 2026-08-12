@@ -7070,5 +7070,18 @@
     "start_date_local": "2026-08-08T11:16:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 46613.4,
+    "elevation_gain": 408.0,
+    "id": "19700939897",
+    "moving_time": 6632.0,
+    "name": "Chill Recovery for Real",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T18:12:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
