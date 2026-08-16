@@ -7096,5 +7096,18 @@
     "start_date_local": "2026-08-13T19:13:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 131466.0,
+    "elevation_gain": 2093.0,
+    "id": "19766723709",
+    "moving_time": 20675.0,
+    "name": "Now I get it \ud83e\udd95\u26f0\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T09:11:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
