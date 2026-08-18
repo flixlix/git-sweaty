@@ -7109,5 +7109,18 @@
     "start_date_local": "2026-08-16T09:11:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 47420.6,
+    "elevation_gain": 405.0,
+    "id": "19783437609",
+    "moving_time": 6420.0,
+    "name": "Living the Life \ud83d\udc1d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-17T18:30:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
