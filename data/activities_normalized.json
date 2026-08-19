@@ -7122,5 +7122,18 @@
     "start_date_local": "2026-08-17T18:30:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 62353.5,
+    "elevation_gain": 962.0,
+    "id": "19799300276",
+    "moving_time": 8993.0,
+    "name": "After Sunset\u2019s Better \ud83e\udef5\ud83d\udee9\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T18:57:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
