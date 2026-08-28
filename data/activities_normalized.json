@@ -7161,5 +7161,31 @@
     "start_date_local": "2026-08-21T11:08:51Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 5884.7,
+    "elevation_gain": 115.0,
+    "id": "19912910655",
+    "moving_time": 1084.0,
+    "name": "Evening Ride (Aug. - 26)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T19:39:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 29478.3,
+    "elevation_gain": 174.0,
+    "id": "19912930044",
+    "moving_time": 3304.0,
+    "name": "Feeling like this Traffic Light \ud83d\udea5\ud83d\udc80",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T18:42:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

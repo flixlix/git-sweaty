@@ -4958,6 +4958,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19835079678",
       "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 19,
+      "name": "Evening Ride (Aug. - 26)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19912910655",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 18,
+      "name": "Feeling like this Traffic Light \ud83d\udea5\ud83d\udc80",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19912930044",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9356,6 +9374,16 @@
           "distance": 133762.0,
           "elevation_gain": 2002.0,
           "moving_time": 17880.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19912910655",
+            "19912930044"
+          ],
+          "count": 2,
+          "distance": 35363.0,
+          "elevation_gain": 289.0,
+          "moving_time": 4388.0
         }
       },
       "Run": {
@@ -9483,7 +9511,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:19:15.452852+00:00",
+  "generated_at": "2026-08-28T00:17:26.714493+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
