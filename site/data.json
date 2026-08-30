@@ -4976,6 +4976,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19912930044",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 12,
+      "name": "Lunch Ride (Aug. - 30)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19967514362",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9384,6 +9393,15 @@
           "distance": 35363.0,
           "elevation_gain": 289.0,
           "moving_time": 4388.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19967514362"
+          ],
+          "count": 1,
+          "distance": 131460.0,
+          "elevation_gain": 1078.0,
+          "moving_time": 17855.0
         }
       },
       "Run": {
@@ -9511,7 +9529,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T18:13:18.325284+00:00",
+  "generated_at": "2026-08-30T18:29:02.147929+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
