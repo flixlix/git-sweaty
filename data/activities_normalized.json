@@ -7213,5 +7213,44 @@
     "start_date_local": "2026-08-30T19:31:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 40002.1,
+    "elevation_gain": 346.0,
+    "id": "20025246964",
+    "moving_time": 4422.0,
+    "name": "Countryside All-Inclusive \ud83d\udc04\ud83d\udc16\ud83d\udc0e\ud83e\udecf\ud83d\udc11",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-03T20:00:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20036176649",
+    "moving_time": 109.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-04T18:09:15Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 168.0,
+    "elevation_gain": 0.0,
+    "id": "20036176704",
+    "moving_time": 336.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-04T18:03:24Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
