@@ -7252,5 +7252,57 @@
     "start_date_local": "2026-09-04T18:03:24Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 90775.1,
+    "elevation_gain": 656.0,
+    "id": "20043947830",
+    "moving_time": 10777.0,
+    "name": "We\u2019re so Back! \ud83e\uddcf\u200d\u2642\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-05T07:44:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 304.0,
+    "elevation_gain": 0.0,
+    "id": "20045217473",
+    "moving_time": 833.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-05T11:39:27Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20045592138",
+    "moving_time": 1291.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-05T11:53:54Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20049243248",
+    "moving_time": 3471.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-05T14:47:40Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

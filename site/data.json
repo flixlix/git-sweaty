@@ -5021,6 +5021,42 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20036176704",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 7,
+      "name": "We\u2019re so Back! \ud83e\uddcf\u200d\u2642\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20043947830",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 11,
+      "name": "Lunch Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20045217473",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 11,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20045592138",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 14,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20049243248",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9447,6 +9483,15 @@
           "distance": 40002.1,
           "elevation_gain": 346.0,
           "moving_time": 4422.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20043947830"
+          ],
+          "count": 1,
+          "distance": 90775.1,
+          "elevation_gain": 656.0,
+          "moving_time": 10777.0
         }
       },
       "Run": {
@@ -9550,6 +9595,15 @@
           "distance": 168.0,
           "elevation_gain": 0.0,
           "moving_time": 336.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20045217473"
+          ],
+          "count": 1,
+          "distance": 304.0,
+          "elevation_gain": 0.0,
+          "moving_time": 833.0
         }
       },
       "Walk": {
@@ -9599,11 +9653,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 109.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20045592138",
+            "20049243248"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4762.0
         }
       }
     }
   },
-  "generated_at": "2026-09-04T18:11:09.738343+00:00",
+  "generated_at": "2026-09-05T17:12:21.940063+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
