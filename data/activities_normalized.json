@@ -7304,5 +7304,18 @@
     "start_date_local": "2026-09-05T14:47:40Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 46379.4,
+    "elevation_gain": 404.0,
+    "id": "20066662821",
+    "moving_time": 6568.0,
+    "name": "A rolling stone gathers no moss \ud83d\udd2b",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T19:26:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
