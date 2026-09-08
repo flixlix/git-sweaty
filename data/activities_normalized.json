@@ -7317,5 +7317,31 @@
     "start_date_local": "2026-09-06T19:26:14Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 40307.1,
+    "elevation_gain": 281.0,
+    "id": "20079526011",
+    "moving_time": 4852.0,
+    "name": "In the Shadows \ud83c\udfb5\ud83c\udf91",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T19:35:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 5880.0,
+    "elevation_gain": 118.0,
+    "id": "20079737259",
+    "moving_time": 1158.0,
+    "name": "Evening Ride (Sept. - 07)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T21:03:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
