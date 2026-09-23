@@ -5111,6 +5111,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20259394244",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 18,
+      "name": "Vaca de Fogo \ud83c\udfb6",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20287448365",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 20,
+      "name": "Evening Ride (Sept. - 22)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20287448775",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9574,6 +9592,16 @@
           "distance": 74453.7,
           "elevation_gain": 428.0,
           "moving_time": 8023.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20287448365",
+            "20287448775"
+          ],
+          "count": 2,
+          "distance": 64774.4,
+          "elevation_gain": 450.0,
+          "moving_time": 8043.0
         }
       },
       "Run": {
@@ -9767,7 +9795,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:35:11.390531+00:00",
+  "generated_at": "2026-09-23T18:54:34.100154+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",

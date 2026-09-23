@@ -7382,5 +7382,31 @@
     "start_date_local": "2026-09-20T17:13:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 59052.6,
+    "elevation_gain": 335.0,
+    "id": "20287448365",
+    "moving_time": 6875.0,
+    "name": "Vaca de Fogo \ud83c\udfb6",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T18:55:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 5721.8,
+    "elevation_gain": 115.0,
+    "id": "20287448775",
+    "moving_time": 1168.0,
+    "name": "Evening Ride (Sept. - 22)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T20:56:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
