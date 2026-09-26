@@ -7408,5 +7408,18 @@
     "start_date_local": "2026-09-22T20:56:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 222230.0,
+    "elevation_gain": 767.2,
+    "id": "20340226453",
+    "moving_time": 32702.0,
+    "name": "Balaton 222 \ud83c\udded\ud83c\uddfa",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-26T06:52:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
