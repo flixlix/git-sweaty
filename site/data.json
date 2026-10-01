@@ -5138,6 +5138,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20340226453",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 10,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20403275401",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9809,11 +9818,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 10.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20403275401"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 20.0
         }
       }
     }
   },
-  "generated_at": "2026-09-30T19:53:17.792364+00:00",
+  "generated_at": "2026-10-01T20:11:20.326607+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
