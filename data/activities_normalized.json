@@ -7460,5 +7460,31 @@
     "start_date_local": "2026-10-03T10:18:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 68338.0,
+    "elevation_gain": 697.0,
+    "id": "20452963966",
+    "moving_time": 8439.0,
+    "name": "Back From CGN \u2708\ufe0f\ud83c\udde9\ud83c\uddea",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T18:07:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5206.7,
+    "elevation_gain": 112.0,
+    "id": "20452963996",
+    "moving_time": 1026.0,
+    "name": "Evening Ride (Oct. - 04)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T20:36:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
