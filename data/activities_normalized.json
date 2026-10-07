@@ -7486,5 +7486,31 @@
     "start_date_local": "2026-10-04T20:36:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 40427.5,
+    "elevation_gain": 253.0,
+    "id": "20479983869",
+    "moving_time": 4722.0,
+    "name": "Marginal by Night",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-06T19:42:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 5771.3,
+    "elevation_gain": 116.0,
+    "id": "20481111833",
+    "moving_time": 1219.0,
+    "name": "Evening Ride (Oct. - 06)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-06T21:14:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
