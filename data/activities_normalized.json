@@ -7525,5 +7525,18 @@
     "start_date_local": "2026-10-08T17:44:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 94858.8,
+    "elevation_gain": 1021.0,
+    "id": "20530546503",
+    "moving_time": 12682.0,
+    "name": "Chilly Chill \ud83e\udd19",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-10T13:17:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

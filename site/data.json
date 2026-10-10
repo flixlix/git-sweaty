@@ -5210,6 +5210,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20507406985",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 13,
+      "name": "Chilly Chill \ud83e\udd19",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20530546503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9731,6 +9740,15 @@
           "distance": 83051.4,
           "elevation_gain": 765.0,
           "moving_time": 10102.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20530546503"
+          ],
+          "count": 1,
+          "distance": 94858.8,
+          "elevation_gain": 1021.0,
+          "moving_time": 12682.0
         }
       },
       "Run": {
@@ -9933,7 +9951,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T20:01:26.264425+00:00",
+  "generated_at": "2026-10-10T19:09:24.058609+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
