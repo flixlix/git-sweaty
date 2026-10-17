@@ -7538,5 +7538,18 @@
     "start_date_local": "2026-10-10T13:17:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 74346.1,
+    "elevation_gain": 555.0,
+    "id": "20614196402",
+    "moving_time": 8788.0,
+    "name": "Somewhat of a Night Owl \ud83e\udd89\u2615\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-16T21:03:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
