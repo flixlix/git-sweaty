@@ -7551,5 +7551,18 @@
     "start_date_local": "2026-10-16T21:03:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 74108.8,
+    "elevation_gain": 437.0,
+    "id": "20633153820",
+    "moving_time": 7569.0,
+    "name": "Free Bird \ud83e\udd85",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-18T09:48:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
