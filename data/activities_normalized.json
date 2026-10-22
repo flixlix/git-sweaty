@@ -7564,5 +7564,18 @@
     "start_date_local": "2026-10-18T09:48:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 60249.8,
+    "elevation_gain": 463.0,
+    "id": "20666108955",
+    "moving_time": 7769.0,
+    "name": "Starting to Cooldown \ud83c\udf1a",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T18:54:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -5237,6 +5237,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20633153820",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 18,
+      "name": "Starting to Cooldown \ud83c\udf1a",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20666108955",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9785,6 +9794,15 @@
           "distance": 74108.8,
           "elevation_gain": 437.0,
           "moving_time": 7569.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20666108955"
+          ],
+          "count": 1,
+          "distance": 60249.8,
+          "elevation_gain": 463.0,
+          "moving_time": 7769.0
         }
       },
       "Run": {
@@ -9987,7 +10005,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T19:00:36.533015+00:00",
+  "generated_at": "2026-10-22T19:04:44.471581+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
