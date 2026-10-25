@@ -7577,5 +7577,31 @@
     "start_date_local": "2026-10-20T18:54:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 221573.0,
+    "elevation_gain": 3226.0,
+    "id": "20717348790",
+    "moving_time": 35235.0,
+    "name": "N2 Day 1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T09:20:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 108857.0,
+    "elevation_gain": 1710.0,
+    "id": "20727361061",
+    "moving_time": 17325.0,
+    "name": "Morning Ride (Oct. - 25)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-25T08:45:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
