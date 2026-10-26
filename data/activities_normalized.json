@@ -7603,5 +7603,18 @@
     "start_date_local": "2026-10-25T08:45:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 258212.0,
+    "elevation_gain": 3317.0,
+    "id": "20731677943",
+    "moving_time": 39473.0,
+    "name": "N2 Day 2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-25T08:45:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
