@@ -7616,5 +7616,18 @@
     "start_date_local": "2026-10-25T08:45:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 239130.0,
+    "elevation_gain": 2571.0,
+    "id": "20743516897",
+    "moving_time": 37303.0,
+    "name": "N2 Day 3 - Done and Dusted \u2705",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-26T09:04:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
