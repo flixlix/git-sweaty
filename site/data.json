@@ -5282,6 +5282,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20743516897",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 20,
+      "name": "Testing the new Jig \ud83d\udd25",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20770912768",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9981,6 +9990,17 @@
           "moving_time": 833.0
         }
       },
+      "VirtualRide": {
+        "2026-10-28": {
+          "activity_ids": [
+            "20770912768"
+          ],
+          "count": 1,
+          "distance": 5999.8,
+          "elevation_gain": 80.0,
+          "moving_time": 1251.0
+        }
+      },
       "Walk": {
         "2026-02-01": {
           "activity_ids": [
@@ -10069,7 +10089,7 @@
       }
     }
   },
-  "generated_at": "2026-10-28T20:07:20.938604+00:00",
+  "generated_at": "2026-10-29T20:05:54.686890+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",

@@ -7629,5 +7629,18 @@
     "start_date_local": "2026-10-26T09:04:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 5999.8,
+    "elevation_gain": 80.0,
+    "id": "20770912768",
+    "moving_time": 1251.0,
+    "name": "Testing the new Jig \ud83d\udd25",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-28T20:37:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
