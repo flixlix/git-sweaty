@@ -7642,5 +7642,31 @@
     "start_date_local": "2026-10-28T20:37:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 11624.5,
+    "elevation_gain": 191.0,
+    "id": "20784375937",
+    "moving_time": 1655.0,
+    "name": "Testing Zwift Plus w/ Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-29T21:49:54Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 9558.0,
+    "elevation_gain": 235.0,
+    "id": "20795130344",
+    "moving_time": 1816.0,
+    "name": "Zwift - Zone Benchmarking",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T19:20:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
