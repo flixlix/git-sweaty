@@ -7681,5 +7681,18 @@
     "start_date_local": "2026-10-31T15:53:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 100490.0,
+    "elevation_gain": 555.0,
+    "id": "20820594683",
+    "moving_time": 12552.0,
+    "name": "Ain\u2019t got nothing on my Beautiful Marginal \ud83d\ude42\u200d\u2194\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-01T13:35:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
