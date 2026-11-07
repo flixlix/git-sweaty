@@ -7694,5 +7694,31 @@
     "start_date_local": "2026-11-01T13:35:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 32342.9,
+    "elevation_gain": 52.0,
+    "id": "20887120761",
+    "moving_time": 3687.0,
+    "name": "Rainy \u2614\ufe0f",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-06T20:24:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 74801.0,
+    "elevation_gain": 578.0,
+    "id": "20897180233",
+    "moving_time": 9549.0,
+    "name": "Decompressing \ud83e\ude75",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-07T13:10:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
