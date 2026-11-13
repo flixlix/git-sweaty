@@ -5345,6 +5345,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20897180233",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 18,
+      "name": "Zwift - FTP Ramp Test",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20975285786",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10107,6 +10116,15 @@
           "distance": 32342.9,
           "elevation_gain": 52.0,
           "moving_time": 3687.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20975285786"
+          ],
+          "count": 1,
+          "distance": 9788.4,
+          "elevation_gain": 16.0,
+          "moving_time": 1153.0
         }
       },
       "Walk": {
@@ -10197,7 +10215,7 @@
       }
     }
   },
-  "generated_at": "2026-11-12T21:46:07.622159+00:00",
+  "generated_at": "2026-11-13T21:14:39.609994+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
