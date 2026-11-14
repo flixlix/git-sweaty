@@ -5354,6 +5354,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20975285786",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 18,
+      "name": "Zwift - Endurance 60",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20988574697",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10125,6 +10134,15 @@
           "distance": 9788.4,
           "elevation_gain": 16.0,
           "moving_time": 1153.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20988574697"
+          ],
+          "count": 1,
+          "distance": 30086.3,
+          "elevation_gain": 248.0,
+          "moving_time": 3625.0
         }
       },
       "Walk": {
@@ -10215,7 +10233,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:14:39.609994+00:00",
+  "generated_at": "2026-11-14T19:47:49.607944+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",

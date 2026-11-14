@@ -7733,5 +7733,18 @@
     "start_date_local": "2026-11-13T18:29:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 30086.3,
+    "elevation_gain": 248.0,
+    "id": "20988574697",
+    "moving_time": 3625.0,
+    "name": "Zwift - Endurance 60",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-14T18:09:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
