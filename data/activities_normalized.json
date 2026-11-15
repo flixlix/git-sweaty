@@ -7746,5 +7746,18 @@
     "start_date_local": "2026-11-14T18:09:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 66465.5,
+    "elevation_gain": 505.0,
+    "id": "21001484078",
+    "moving_time": 8622.0,
+    "name": "Foggy Glasses \ud83d\ude36\u200d\ud83c\udf2b\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-15T15:52:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
