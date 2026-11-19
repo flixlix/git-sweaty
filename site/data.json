@@ -5381,6 +5381,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21027777243",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 17,
+      "name": "One Way only \ud83d\ude42\u200d\u2194\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21050651048",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10002,6 +10011,15 @@
           "distance": 66465.5,
           "elevation_gain": 505.0,
           "moving_time": 8622.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21050651048"
+          ],
+          "count": 1,
+          "distance": 50834.1,
+          "elevation_gain": 545.0,
+          "moving_time": 6834.0
         }
       },
       "Run": {
@@ -10269,7 +10287,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T22:30:06.226512+00:00",
+  "generated_at": "2026-11-19T22:36:08.629315+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",

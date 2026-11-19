@@ -7772,5 +7772,18 @@
     "start_date_local": "2026-11-17T22:12:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 50834.1,
+    "elevation_gain": 545.0,
+    "id": "21050651048",
+    "moving_time": 6834.0,
+    "name": "One Way only \ud83d\ude42\u200d\u2194\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-19T17:16:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
