@@ -7798,5 +7798,18 @@
     "start_date_local": "2026-11-21T08:13:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 59766.0,
+    "elevation_gain": 474.0,
+    "id": "21087365066",
+    "moving_time": 7618.0,
+    "name": "Beach Vibes in November??? \ud83d\ude2e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-22T16:12:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
