@@ -5408,6 +5408,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21087365066",
       "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 20,
+      "name": "Zwift - Intervals",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21112923620",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10233,6 +10242,15 @@
           "distance": 26231.1,
           "elevation_gain": 189.0,
           "moving_time": 3087.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21112923620"
+          ],
+          "count": 1,
+          "distance": 33844.9,
+          "elevation_gain": 251.0,
+          "moving_time": 3727.0
         }
       },
       "Walk": {
@@ -10323,7 +10341,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T02:02:16.216326+00:00",
+  "generated_at": "2026-11-24T23:47:39.079544+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
