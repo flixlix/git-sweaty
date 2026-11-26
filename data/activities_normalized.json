@@ -7824,5 +7824,18 @@
     "start_date_local": "2026-11-24T20:49:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 46509.7,
+    "elevation_gain": 404.0,
+    "id": "21135608888",
+    "moving_time": 6172.0,
+    "name": "Raw Sunset \ud83d\ude0d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-26T17:10:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

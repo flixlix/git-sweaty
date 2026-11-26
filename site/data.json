@@ -5417,6 +5417,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21112923620",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 17,
+      "name": "Raw Sunset \ud83d\ude0d",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21135608888",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10065,6 +10074,15 @@
           "distance": 59766.0,
           "elevation_gain": 474.0,
           "moving_time": 7618.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21135608888"
+          ],
+          "count": 1,
+          "distance": 46509.7,
+          "elevation_gain": 404.0,
+          "moving_time": 6172.0
         }
       },
       "Run": {
@@ -10341,7 +10359,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:29:21.693840+00:00",
+  "generated_at": "2026-11-26T23:32:09.662194+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79658528",
   "repo": "flixlix/git-sweaty",
